@@ -23,3 +23,6 @@
 |Bank							|Each DRAM chip is devided into several "sectors" that can be imagined as chips|
 |Row							|The row can be compared to the traditional "address" of a RAM chip or the row of a notebook|
 |Column						|The Column can be compared to an additional address that define the memory location in a "2D" place, as a matrix|
+
+### Let's try to address a DRAM chip (B-R-C | Bank-Row-Column)
+For this example we are going to use a [winbond 512 Mbit DDR2](https://github.com/LawrenceBrode/HDDR2/blob/d97dd640fa0fb63eee98a2fcc034407cdeb084aa/DATASHEETS/2304140030_Winbond-Elec-W9751G6NB-25_C908414.pdf) chip.
