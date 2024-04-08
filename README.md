@@ -1,3 +1,4 @@
+
 # hDDR2
 
 > **handmadeDDR2** | "Double Data Rate 2"
@@ -11,7 +12,7 @@
 
 
 ## What is the RAM?
-
+You are supposed to know what the f..k a RAM is if you are reading this.
 ### How (modern) RAM works?
 
  
@@ -48,3 +49,4 @@ If we would had a 8 bit DATA length we would need to pair 8 chips.
 If we want to find the total memory size we just have to multiply locations per data width -> 33'554'432 x 16 = 536'870'912 bits -> /8 -> 67'108'864 Bytes -> 64 MB
 
 **Simple? Yes.**
+
